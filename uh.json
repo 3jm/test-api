@@ -1,0 +1,14 @@
+{
+  "status": 200,
+  "data": {
+    "id": "CID_046_Athena_Commando_F_HolidaySweater",
+    "name": "Nog Ops",
+    "description": "Have yourself a merry little skirmish.",
+    "type": {
+      "displayValue": "Outfit"
+    },
+    "rarity": {
+      "displayValue": "Uncommon"
+    }
+  }
+}
